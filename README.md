@@ -4,7 +4,7 @@
 
 ## 📊 Diseño de Base de Datos - DBDesigner
 
-![Diseño de Base de Datos Dental](https://dbdesigner.page.link/dtE1JBsTTgBvjqQ17)
+[Diseño de Base de Datos Dental](https://dbdesigner.page.link/dtE1JBsTTgBvjqQ17)
 
 ## 🐍 Modelo Django - models.py
 
