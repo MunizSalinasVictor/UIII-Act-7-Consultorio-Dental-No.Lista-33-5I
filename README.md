@@ -226,4 +226,3 @@ CREATE TABLE Material_Odontologico (
 <img width="961" height="462" alt="image" src="https://github.com/user-attachments/assets/cf7c4d71-a6b2-4842-b228-70bcee4cd690" />
 <img width="608" height="383" alt="image" src="https://github.com/user-attachments/assets/1b407806-3460-4b4e-890f-5ea585b4a075" />
 <img width="460" height="750" alt="image" src="https://github.com/user-attachments/assets/b252746d-ccdc-4aca-b709-7e4347d0c5d4" />
-
